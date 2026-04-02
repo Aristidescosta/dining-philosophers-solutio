@@ -1,1 +1,1 @@
-# dining-philosophers-solutio
+# dining-philosophers-solution
